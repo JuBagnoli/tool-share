@@ -10,7 +10,7 @@
 #*DATABASE: GCP Mysql relational database 'tool-share' with three tables; Users, Tools & Users_toolbox.
 #*CRUD APPLICATION BACK-END: in Python programming language, saved as a Git Repository and
 #*FRONT-END & INTEGRATED APPLICATION PROGRAMMING INTERFACE(API): Flask HTML.
-#*DUAL TESTING ENVIRONMENT(TDD): UNIT - Pytest; INTEGRATION - Selenium. Proof of high test coverage using test reports.
+#*DUAL TESTING ENVIRONMENT(TDD): UNIT - Pytest. Proof of high test coverage using test reports.
 #*VERSION CONTROL SYSTEM(VCS): Code fully integrated into the GitHub Version Control System using the Feature-Branch model.
 #*CONTINUOUS INTEGRATION(CI) SERVER: Jenkins.
 #*ERG DIAGRAM: using draw.io.
