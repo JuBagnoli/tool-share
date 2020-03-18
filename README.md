@@ -6,7 +6,7 @@
 
 #Assessment Tech Stack Scope - a Minimum Viable Product which covers:- 
 
-#*KANBAN BOARD: Trello Board with user stories, use cases, tasks including task backlog and Moscow analysis.
+#*KANBAN BOARD: Trello Board (https://trello.com/b/oqz3rjmG/assessment) with user stories, use cases, tasks including task backlog and Moscow analysis.
 #*DATABASE: GCP Mysql relational database 'tool-share' with three tables; Users, Tools & Users_toolbox.
 #*CRUD APPLICATION BACK-END: in Python programming language, saved as a Git Repository and
 #*FRONT-END & INTEGRATED APPLICATION PROGRAMMING INTERFACE(API): Flask HTML.
