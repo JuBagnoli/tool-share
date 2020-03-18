@@ -34,7 +34,7 @@ _The sharing economy is much vaunted with privately owned assets using web apps 
 **Deadline**  
 _Latest Github commit on 9am Monday 23rd March 2020._   
 
-**Product enhancements**
+**Product enhancements**  
 _The present app lets users search for tools that they can lend. Future iterations might show types of tools, images, add rental periods, or links to commercial tool hire sites which generates click through revenue. It could also have geographic locations on drop down menus such as those used on Gumtree based on willingness to travel to pick up the tool._
 
 **Authors**
