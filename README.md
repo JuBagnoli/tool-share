@@ -1,7 +1,7 @@
 ##### **tool-share**  
 _My app is a community resource which allows users to share neighbours tools._  
 
-#####**Assessment Objective**
+#####header**Assessment Objective**
 _To individually create a CRUD application which uses core tools, methodologies and technologies covered by the GMCA DevOps course. These include Agile, Continuous Integration, Cloud Fundamentals and software development languages/operating systems including Linux, Python & Flask._
 
 #####**Assessment Tech Stack Scope**  
@@ -20,5 +20,5 @@ _a Minimum Viable Product which covers_
 _The sharing economy is much vaunted with privately owned assets using web apps to timeshare resources (eg: AirBnB,Carshare, Storage). This application will allow users to benefit their local community and themselves by pooling their gardening, DIY, cooking equipment)_  
 
 #####**Deadline**  
-#Latest Github commit on 9am Monday 23rd March 2020.    
+Latest Github commit on 9am Monday 23rd March 2020.    
 
