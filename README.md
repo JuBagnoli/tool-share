@@ -1,12 +1,12 @@
-**Structure**
-Assessment brief
-Solution
-Tech Stack: MVP
-Use case
-Deadline
-Product enhancements
-Authors
-Acknowledgements
+**Structure**  
+Assessment brief  
+Solution  
+Tech Stack: MVP  
+Use case  
+Deadline  
+Product enhancements  
+Authors  
+Acknowledgements  
 
 
 **Assessment Brief**  
@@ -40,7 +40,7 @@ _The present app lets users search for tools that they can lend. Future iteratio
 **Authors**
 _Jules Bagnoli_
 
-**Acknowledgements**
+**Acknowledgements**  
 _Ben and Luke, along with the ever interesting GMCA cohort. Special thanks to Julie, Poonan, Fabia & Mark._
 
 
