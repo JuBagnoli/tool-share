@@ -6,7 +6,7 @@ _To individually create a CRUD application which uses core tools, methodologies 
 
 **Assessment Tech Stack Scope**  
 _a Minimum Viable Product which covers_   
-**1. KANBAN BOARD** using this Trello Board (https://trello.com/b/oqz3rjmG/assessment) containing user stories, use cases, tasks including task backlog and Moscow analysis.  
+**1. KANBAN BOARD** using this Trello Board [Search for it](https://trello.com/b/oqz3rjmG/assessment) containing user stories, use cases, tasks including task backlog and Moscow analysis.  
 **2. DATABASE**: GCP Mysql relational database 'tool-share' with three tables; Users, Tools & Users_toolbox.  
 **3. CRUD APPLICATION BACK-END** in Python programming language, saved as a Git Repository.  
 **4. FRONT-END & INTEGRATED APPLICATION PROGRAMMING INTERFACE(API)** using Flask HTML.  
