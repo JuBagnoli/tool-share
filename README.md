@@ -1,10 +1,10 @@
-##### **tool-share**  
+**tool-share**  
 _My app is a community resource which allows users to share neighbours tools._  
 
-#####header**Assessment Objective**
+**Assessment Objective**
 _To individually create a CRUD application which uses core tools, methodologies and technologies covered by the GMCA DevOps course. These include Agile, Continuous Integration, Cloud Fundamentals and software development languages/operating systems including Linux, Python & Flask._
 
-#####**Assessment Tech Stack Scope**  
+**Assessment Tech Stack Scope**  
 _a Minimum Viable Product which covers_   
 **1. KANBAN BOARD** using this Trello Board (https://trello.com/b/oqz3rjmG/assessment) containing user stories, use cases, tasks including task backlog and Moscow analysis.  
 **2. DATABASE**: GCP Mysql relational database 'tool-share' with three tables; Users, Tools & Users_toolbox.  
@@ -16,9 +16,9 @@ _a Minimum Viable Product which covers_
 **8. ERG DIAGRAM** using draw.io.  
 **9. Risk Assessment**.  
 
-#####**Use Case**  
+**Use Case**  
 _The sharing economy is much vaunted with privately owned assets using web apps to timeshare resources (eg: AirBnB,Carshare, Storage). This application will allow users to benefit their local community and themselves by pooling their gardening, DIY, cooking equipment)_  
 
-#####**Deadline**  
+**Deadline**  
 Latest Github commit on 9am Monday 23rd March 2020.    
 
