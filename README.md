@@ -1,9 +1,12 @@
+**Community Tool Share App**
+ 
+_In fulfillment of QA assessment, latest Github commit due by 9am on Monday 23rd March 2020._   
+
 **Structure**  
 Assessment brief  
 Solution  
 Tech Stack: MVP  
-Use case  
-Deadline  
+Use case   
 Product enhancements  
 Authors  
 Acknowledgements  
@@ -30,9 +33,6 @@ _a Minimum Viable Product which covers_
 
 **Use Case**  
 _The sharing economy is much vaunted with privately owned assets using web apps to timeshare resources (eg: AirBnB,Carshare, Storage). This application will allow users to benefit their local community and themselves by pooling their gardening, DIY, cooking equipment)_  
-
-**Deadline**  
-_Latest Github commit on 9am Monday 23rd March 2020._   
 
 **Product enhancements**  
 _The present app lets users search for tools that they can lend. Future iterations might show types of tools, images, add rental periods, or links to commercial tool hire sites which generates click through revenue. It could also have geographic locations on drop down menus such as those used on Gumtree based on willingness to travel to pick up the tool._
