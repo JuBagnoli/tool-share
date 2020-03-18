@@ -1,7 +1,7 @@
 **tool-share**  
 _My app is a community resource which allows users to share neighbours tools._  
 
-**Assessment Objective**
+**Assessment Objective**  
 _To individually create a CRUD application which uses core tools, methodologies and technologies covered by the GMCA DevOps course. These include Agile, Continuous Integration, Cloud Fundamentals and software development languages/operating systems including Linux, Python & Flask._
 
 **Assessment Tech Stack Scope**  
