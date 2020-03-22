@@ -1,5 +1,4 @@
 from application import db
-from application import db, login_manager
 from flask_login import UserMixin
 
 
@@ -23,5 +22,4 @@ class Posts(db.Model):
             'User: ', self.first_name, ' ', self.last_name, '\r\n',
             'Title: ', self.title, '\r\n', self.content
         ])
-@login_manager.user_loader
 def load_user(id):
