@@ -59,20 +59,3 @@ class RegistrationForm(FlaskForm):
 
         if user:
             raise ValidationError('Email already in use')
-
-
-class LoginForm(FlaskForm):
-	email = StringField('Email',
-		validators=[
-			DataRequired(),
-			Email()
-		])
-	password = PasswordField('Password',
-		validators=[
-			DataRequired(),
-		])
-	remember = BooleanField('Remember Me')
-    
-	submit = SubmitField('Login')
-© 2020 GitHub, Inc.
-
